@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710455
-ModificationTime: 1760648271
+ModificationTime: 1762027947
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -31707,27 +31707,27 @@ EndChar
 
 StartChar: one.onum
 Encoding: 65539 -1 844
-Width: 600
+Width: 420
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 HStem: 0 20
 LayerCount: 2
 Fore
 SplineSet
-450 473 m 1
- 355 123 l 2
- 348 97 341 75 341 60 c 0
- 341 32 363 25 440 23 c 1
- 440 0 l 1
- 95 0 l 1
- 95 23 l 1
- 171 27 199 42 216 105 c 2
- 281 340 l 2
- 283 349 287 364 287 370 c 0
- 287 392 270 403 239 403 c 0
- 220 403 203 402 177 398 c 1
- 179 421 l 1
- 294 436 359 451 450 473 c 1
+380 473 m 1
+ 285 123 l 2
+ 278 97 271 75 271 60 c 0
+ 271 32 293 25 370 23 c 1
+ 370 0 l 1
+ 25 0 l 1
+ 25 23 l 1
+ 101 27 129 42 146 105 c 2
+ 211 340 l 2
+ 213 349 217 364 217 370 c 0
+ 217 392 200 403 169 403 c 0
+ 150 403 133 402 107 398 c 1
+ 109 421 l 1
+ 224 436 289 451 380 473 c 1
 EndSplineSet
 Substitution2: "'ss11' Style Set 11 lookup 8 subtable" one.onum.ss11
 EndChar
