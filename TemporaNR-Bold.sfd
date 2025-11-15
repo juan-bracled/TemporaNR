@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1232396790
-ModificationTime: 1762028049
+ModificationTime: 1763193080
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -71,12 +71,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "FontForge 2.0 : TemporaNR Bold : 14-9-2025" "" "Version 1.302" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "https://github.com/alif-type/xits" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html"
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 27 9
+WinInfo: 1242 27 9
 BeginPrivate: 7
 BlueValues 23 [-19 0 461 473 676 691]
 BlueShift 1 5
@@ -51676,36 +51677,36 @@ EndChar
 
 StartChar: a.sc
 Encoding: 1114168 -1 1420
-Width: 625
+Width: 547
 GlyphClass: 2
-Flags: MW
-HStem: -4 19<38 206 38 38 583 600> 144 29<187 348 187 360 175 348>
+Flags: HMW
+HStem: -4 19<-40 128 -40 -40 505 522> 144 29<109 270 109 282 97 270>
 LayerCount: 2
 Fore
 SplineSet
-348 173 m 1
- 265 356 l 1
- 187 173 l 1
- 348 173 l 1
-600 -4 m 1
- 333 -4 l 1
- 333 15 l 1
- 360 17 l 2
- 388 19 398 26 398 42 c 0
- 398 58 389 85 360 144 c 1
- 175 144 l 1
- 164 118 l 2
- 154 95 139 64 139 46 c 0
- 139 26 158 18 206 15 c 1
- 206 -4 l 1
- 38 -4 l 1
- 38 15 l 1
- 75 21 89 35 120 105 c 2
- 302 514 l 1
- 326 514 l 1
- 509 122 l 2
- 551 31 566 15 600 15 c 1
- 600 -4 l 1
+270 173 m 1
+ 187 356 l 1
+ 109 173 l 1
+ 270 173 l 1
+522 -4 m 1
+ 255 -4 l 1
+ 255 15 l 1
+ 282 17 l 2
+ 310 19 320 26 320 42 c 0
+ 320 58 311 85 282 144 c 1
+ 97 144 l 1
+ 86 118 l 2
+ 76 95 61 64 61 46 c 0
+ 61 26 80 18 128 15 c 1
+ 128 -4 l 1
+ -40 -4 l 1
+ -40 15 l 1
+ -3 21 11 35 42 105 c 2
+ 224 514 l 1
+ 248 514 l 1
+ 431 122 l 2
+ 473 31 488 15 522 15 c 1
+ 522 -4 l 1
 EndSplineSet
 EndChar
 
@@ -51810,38 +51811,38 @@ EndChar
 
 StartChar: e.sc
 Encoding: 1114172 -1 1424
-Width: 607
+Width: 556
 GlyphClass: 2
-Flags: MW
-HStem: -6 24<319 378 319 553> 241 26<277 322> 476 26<308.5 397> 483 19<71 547>
-VStem: 143 134<70 241 267 430 430 436> 410 22<125 378 125 378> 526 21<351 502>
+Flags: HMW
+HStem: -6 24<268 327 268 502> 241 26<226 271> 476 26<257.5 346> 483 19<20 496>
+VStem: 92 134<70 241 267 430 430 436> 359 22<125 378 125 378> 475 21<351 502>
 LayerCount: 2
 Fore
 SplineSet
-586 150 m 1xee
- 553 -6 l 1
- 71 -6 l 1
- 71 13 l 1
- 133 19 143 31 143 70 c 2
- 143 430 l 2
- 143 468 128 480 71 483 c 1
- 71 502 l 1
- 547 502 l 1xde
- 547 351 l 1
- 526 351 l 1
- 507 451 464 476 330 476 c 0
- 287 476 277 464 277 436 c 2
- 277 267 l 1
- 365 268 400 291 410 378 c 1
- 432 378 l 1
- 432 125 l 1
- 410 125 l 1
- 401 214 367 241 277 241 c 1
- 277 60 l 2
- 277 28 292 18 346 18 c 0
- 410 18 457 29 495 58 c 0
- 524 79 539 101 563 150 c 1
- 586 150 l 1xee
+535 150 m 1xee
+ 502 -6 l 1
+ 20 -6 l 1
+ 20 13 l 1
+ 82 19 92 31 92 70 c 2
+ 92 430 l 2
+ 92 468 77 480 20 483 c 1
+ 20 502 l 1
+ 496 502 l 1xde
+ 496 351 l 1
+ 475 351 l 1
+ 456 451 413 476 279 476 c 0
+ 236 476 226 464 226 436 c 2
+ 226 267 l 1
+ 314 268 349 291 359 378 c 1
+ 381 378 l 1
+ 381 125 l 1
+ 359 125 l 1
+ 350 214 316 241 226 241 c 1
+ 226 60 l 2
+ 226 28 241 18 295 18 c 0
+ 359 18 406 29 444 58 c 0
+ 473 79 488 101 512 150 c 1
+ 535 150 l 1xee
 EndSplineSet
 EndChar
 
@@ -52088,40 +52089,40 @@ EndChar
 
 StartChar: m.sc
 Encoding: 1114180 -1 1432
-Width: 799
+Width: 804
 GlyphClass: 2
-Flags: MW
-HStem: -6 19<33 227 33 33> 483 19<35 244>
-VStem: 109 34<76 91 91 427 427 440> 581 128<76 89 89 410>
+Flags: HMW
+HStem: -6 19<30 224 30 30> 483 19<32 241>
+VStem: 106 34<76 91 91 427 427 440> 578 128<76 89 89 410>
 LayerCount: 2
 Fore
 SplineSet
-782 -6 m 1
- 508 -6 l 1
- 508 13 l 1
- 570 18 581 32 581 76 c 2
- 581 448 l 1
- 373 -6 l 1
- 351 -6 l 1
- 143 440 l 1
- 143 91 l 2
- 143 34 159 17 227 13 c 1
- 227 -6 l 1
- 33 -6 l 1
- 33 13 l 1
- 97 19 109 27 109 76 c 2
- 109 427 l 2
- 109 467 95 479 35 483 c 1
- 35 502 l 1
- 244 502 l 1
- 408 148 l 1
- 574 502 l 1
- 782 502 l 1
- 782 483 l 1
- 722 479 709 466 709 410 c 2
- 709 89 l 2
- 709 34 716 18 782 13 c 1
- 782 -6 l 1
+779 -6 m 1
+ 505 -6 l 1
+ 505 13 l 1
+ 567 18 578 32 578 76 c 2
+ 578 448 l 1
+ 370 -6 l 1
+ 348 -6 l 1
+ 140 440 l 1
+ 140 91 l 2
+ 140 34 156 17 224 13 c 1
+ 224 -6 l 1
+ 30 -6 l 1
+ 30 13 l 1
+ 94 19 106 27 106 76 c 2
+ 106 427 l 2
+ 106 467 92 479 32 483 c 1
+ 32 502 l 1
+ 241 502 l 1
+ 405 148 l 1
+ 571 502 l 1
+ 779 502 l 1
+ 779 483 l 1
+ 719 479 706 466 706 410 c 2
+ 706 89 l 2
+ 706 34 713 18 779 13 c 1
+ 779 -6 l 1
 EndSplineSet
 EndChar
 
@@ -52184,7 +52185,7 @@ EndChar
 
 StartChar: p.sc
 Encoding: 1114183 -1 1435
-Width: 497
+Width: 496
 GlyphClass: 2
 Flags: MW
 HStem: -6 19<7 282 7 7> 222 26<211 211> 475 27<237 267 267 285> 483 19<7 267>
@@ -52213,6 +52214,7 @@ SplineSet
  76 467 64 479 7 483 c 1
  7 502 l 1xdc
 EndSplineSet
+Kerns2: 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1420 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
 StartChar: q.sc
@@ -52325,29 +52327,29 @@ EndChar
 
 StartChar: t.sc
 Encoding: 1114187 -1 1439
-Width: 547
+Width: 458
 GlyphClass: 2
-Flags: MW
-HStem: -6 19<127 421 127 127> 478 24<207 207 341 341>
-VStem: 24 23<351 351> 207 134<82 478> 500 23<351 351>
+Flags: HMW
+HStem: -6 19<38 332 38 38> 478 24<118 118 252 252>
+VStem: -65 23<351 351> 118 134<82 478> 411 23<351 351>
 LayerCount: 2
 Fore
 SplineSet
-523 351 m 1
- 500 351 l 1
- 486 440 442 475 341 478 c 1
- 341 82 l 2
- 341 25 349 17 421 13 c 1
- 421 -6 l 1
- 127 -6 l 1
- 127 13 l 1
- 197 18 207 26 207 82 c 2
- 207 478 l 1
- 105 475 61 440 47 351 c 1
- 24 351 l 1
- 27 502 l 1
- 522 502 l 1
- 523 351 l 1
+434 351 m 1
+ 411 351 l 1
+ 397 440 353 475 252 478 c 1
+ 252 82 l 2
+ 252 25 260 17 332 13 c 1
+ 332 -6 l 1
+ 38 -6 l 1
+ 38 13 l 1
+ 108 18 118 26 118 82 c 2
+ 118 478 l 1
+ 16 475 -28 440 -42 351 c 1
+ -65 351 l 1
+ -62 502 l 1
+ 433 502 l 1
+ 434 351 l 1
 EndSplineSet
 EndChar
 
