@@ -4,7 +4,7 @@ Copyright (c) 1990, Elsevier, Inc.
 Copyright (c) 2014, 2015, (URW)++ Design & Development.
 Copyright (c) 2009-2019, Khaled Hosny.
 Copyright (c) 2019, Daniel Benjamin Miller.
-Copyright (c) 2025, Ioannes Bracledus.
+Copyright (c) 2025, Ioannes Bracledes.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
